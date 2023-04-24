@@ -1,3 +1,3 @@
 ### Hello! 🌟
 
-I am Yousof Algburi, an enthusiastic self-taught software developer who embarked on a programming journey in 2014. My fervor for the craft has led me to continually hone my skills, striving to create top-notch software. With a profound passion for full-stack applications, I remain ever-curious and eager to explore new horizons in the realm of technology.
+I'm Yousof Algburi, a dedicated self-taught software developer who began my programming adventure in 2014. My enthusiasm for the craft drives me to constantly sharpen my skills and create high-quality software. As a full-stack developer with a strong passion for technology, I'm always curious and ready to discover new opportunities in the tech world.
